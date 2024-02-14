@@ -21,3 +21,8 @@ Run "RosieNewListen" from the MATLAB cmd line
 Contributions and Authorship:
 Contribution and authorship of each code is indicated within the first few lines of each code. Most codes were written by Rosie Craddock 2024. 
 Some vodes are written by Adam Ranson, some codes written by Rosie Craddock were based on previous work by Adam Ranson.
+
+
+Use of this code relies on use of the Psychophysics Toolbox Version 3. Please cite this as required on use of the codes in this repo: 
+Kleiner, Mario, David Brainard, and Denis Pelli. "What's new in Psychtoolbox-3?." (2007): 14.
+
